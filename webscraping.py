@@ -3,12 +3,12 @@ import requests
 import pandas as pd
 from bs4 import BeautifulSoup
 
-# set up base url 
+## set up base url 
 base_url = 'https://www.mtggoldfish.com/index/{}#paper'
-res = requests.get(base_url.format('DOM')
+res = requests.get(base_url.format('DOM'))
 soup = BeautifulSoup(res.text, 'lxml')
 
-# extract details
+## strats?
 full_list = []
 for row in soup.select('tr'):
   cols = row.findAll('td')
