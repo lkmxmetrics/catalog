@@ -1,0 +1,534 @@
+Name,Set,Rarity,Price
+Smothering Tithe,RNA,Rare,40.94
+Breeding Pool,RNA,Rare,21.57
+Blood Crypt,RNA,Rare,17.59
+Godless Shrine,RNA,Rare,13.64
+Guardian Project,RNA,Rare,12.60
+Hydroid Krasis,RNA,Mythic,11.24
+Stomping Ground,RNA,Rare,10.17
+Hallowed Fountain,RNA,Rare,9.32
+Captive Audience,RNA,Mythic,4.18
+Biogenic Ooze,RNA,Mythic,3.66
+"Kaya, Orzhov Usurper",RNA,Mythic,3.66
+Rhythm of the Wild,RNA,Uncommon,3.60
+Priest of Forgotten Gods,RNA,Rare,3.30
+Teysa Karlov,RNA,Rare,2.93
+Prime Speaker Vannifar,RNA,Mythic,2.89
+Electrodominance,RNA,Rare,2.49
+Wilderness Reclamation,RNA,Uncommon,2.33
+"Rakdos, the Showstopper",RNA,Mythic,2.28
+Bedevil,RNA,Rare,2.21
+Persistent Petitioners,RNA,Common,1.99
+Seraph of the Scales,RNA,Mythic,1.99
+Spawn of Mayhem,RNA,Mythic,1.98
+Simic Ascendancy,RNA,Rare,1.93
+"Domri, Chaos Bringer",RNA,Mythic,1.50
+Incubation Druid,RNA,Rare,1.29
+Mass Manipulation,RNA,Rare,1.15
+Cindervines,RNA,Rare,1.13
+"Dovin, Grand Arbiter",RNA,Mythic,1.01
+Absorb,RNA,Rare,1.00
+Angel of Grace,RNA,Mythic,1.00
+Gutterbones,RNA,Rare,1.00
+Kaya's Wrath,RNA,Rare,1.00
+"Lavinia, Azorius Renegade",RNA,Rare,1.00
+Mesmerizing Benthid,RNA,Mythic,1.00
+Biomancer's Familiar,RNA,Rare,0.99
+Mirror March,RNA,Rare,0.99
+Revival // Revenge,RNA,Rare,0.99
+Emergency Powers,RNA,Mythic,0.98
+Skarrgan Hellkite,RNA,Mythic,0.98
+Tithe Taker,RNA,Rare,0.98
+Deputy of Detention,RNA,Rare,0.95
+Repudiate // Replicate,RNA,Rare,0.94
+Unbreakable Formation,RNA,Rare,0.90
+Forest,RNA,Basic Land,0.89
+End-Raze Forerunners,RNA,Rare,0.87
+Vindictive Vampire,RNA,Uncommon,0.84
+"Judith, the Scourge Diva",RNA,Rare,0.76
+Ravager Wurm,RNA,Mythic,0.75
+Mountain,RNA,Basic Land,0.74
+Ethereal Absolution,RNA,Rare,0.68
+Skewer the Critics,RNA,Common,0.65
+Gruul Spellbreaker,RNA,Rare,0.63
+Benthic Biomancer,RNA,Rare,0.60
+Island,RNA,Basic Land,0.58
+Font of Agonies,RNA,Rare,0.55
+Hero of Precinct One,RNA,Rare,0.54
+Sphinx of Foresight,RNA,Rare,0.54
+Awaken the Erstwhile,RNA,Rare,0.50
+Pestilent Spirit,RNA,Rare,0.50
+Plaza of Harmony,RNA,Rare,0.50
+Rampage of the Clans,RNA,Rare,0.50
+"Zegana, Utopian Speaker",RNA,Rare,0.50
+Growth Spiral,RNA,Common,0.49
+Growth-Chamber Guardian,RNA,Rare,0.49
+High Alert,RNA,Uncommon,0.49
+Light Up the Stage,RNA,Uncommon,0.49
+Tome of the Guildpact,RNA,Rare,0.49
+Verity Circle,RNA,Rare,0.48
+Nikya of the Old Ways,RNA,Rare,0.47
+Swamp,RNA,Basic Land,0.47
+Theater of Horrors,RNA,Rare,0.46
+Wall of Lost Thoughts,RNA,Uncommon,0.44
+Dovin's Dismissal,RNA,Rare,0.43
+Precognitive Perception,RNA,Rare,0.43
+Rix Maadi Reveler,RNA,Rare,0.43
+Glass of the Guildpact,RNA,Rare,0.40
+Mortify,RNA,Uncommon,0.40
+Pteramander,RNA,Uncommon,0.40
+Resolute Watchdog,RNA,Uncommon,0.40
+Immolation Shaman,RNA,Rare,0.39
+Domri's Nodorog,RNA,Rare,0.38
+Lumbering Battlement,RNA,Rare,0.35
+Ministrant of Obligation,RNA,Uncommon,0.35
+Thrash // Threat,RNA,Rare,0.35
+Warrant // Warden,RNA,Rare,0.35
+Bedeck // Bedazzle,RNA,Rare,0.33
+Gates Ablaze,RNA,Uncommon,0.33
+Essence Capture,RNA,Uncommon,0.32
+Impassioned Orator,RNA,Common,0.32
+Plains,RNA,Basic Land,0.32
+Gatebreaker Ram,RNA,Uncommon,0.31
+Amplifire,RNA,Rare,0.30
+Collision // Colossus,RNA,Uncommon,0.30
+Drill Bit,RNA,Uncommon,0.30
+Orzhov Enforcer,RNA,Uncommon,0.30
+Tower Defense,RNA,Uncommon,0.30
+Cry of the Carnarium,RNA,Uncommon,0.27
+Bankrupt in Blood,RNA,Uncommon,0.26
+Basilica Bell-Haunt,RNA,Uncommon,0.26
+Cavalcade of Calamity,RNA,Uncommon,0.26
+Elite Arrester,RNA,Common,0.26
+Incubation // Incongruity,RNA,Uncommon,0.26
+Pitiless Pontiff,RNA,Uncommon,0.26
+Sunder Shaman,RNA,Uncommon,0.26
+Angelic Exaltation,RNA,Uncommon,0.25
+Archway Angel,RNA,Uncommon,0.25
+Azorius Locket,RNA,Common,0.25
+Azorius Skyguard,RNA,Uncommon,0.25
+Biogenic Upgrade,RNA,Uncommon,0.25
+Bloodmist Infiltrator,RNA,Uncommon,0.25
+Bolrac-Clan Crusher,RNA,Uncommon,0.25
+Carnival // Carnage,RNA,Uncommon,0.25
+Charging War Boar,RNA,Uncommon,0.25
+Clamor Shaman,RNA,Uncommon,0.25
+Clan Guildmage,RNA,Uncommon,0.25
+Clear the Mind,RNA,Common,0.25
+Combine Guildmage,RNA,Uncommon,0.25
+Consecrate // Consume,RNA,Uncommon,0.25
+Cult Guildmage,RNA,Uncommon,0.25
+Dagger Caster,RNA,Uncommon,0.25
+Depose // Deploy,RNA,Uncommon,0.25
+Dovin's Acuity,RNA,Uncommon,0.25
+Dovin's Automaton,RNA,Uncommon,0.25
+Eyes Everywhere,RNA,Uncommon,0.25
+Final Payment,RNA,Common,0.25
+Fireblade Artist,RNA,Uncommon,0.25
+Footlight Fiend,RNA,Common,0.25
+Forbidding Spirit,RNA,Uncommon,0.25
+Frilled Mystic,RNA,Uncommon,0.25
+Galloping Lizrog,RNA,Uncommon,0.25
+Gate Colossus,RNA,Uncommon,0.25
+Gateway Plaza,RNA,Common,0.25
+Gateway Sneak,RNA,Uncommon,0.25
+Gruul Beastmaster,RNA,Uncommon,0.25
+Gyre Engineer,RNA,Uncommon,0.25
+Hackrobat,RNA,Uncommon,0.25
+Ill-Gotten Inheritance,RNA,Common,0.25
+Imperious Oligarch,RNA,Common,0.25
+Junktroller,RNA,Uncommon,0.25
+Knight of the Last Breath,RNA,Uncommon,0.25
+Macabre Mockery,RNA,Uncommon,0.25
+Orzhov Locket,RNA,Common,0.25
+Orzhov Racketeers,RNA,Uncommon,0.25
+Rakdos Firewheeler,RNA,Uncommon,0.25
+Rakdos Locket,RNA,Common,0.25
+Rally to Battle,RNA,Uncommon,0.25
+Regenesis,RNA,Uncommon,0.25
+Rumbling Ruin,RNA,Uncommon,0.25
+Saruli Caretaker,RNA,Common,0.25
+Scrabbling Claws,RNA,Uncommon,0.25
+Screaming Shield,RNA,Uncommon,0.25
+Senate Guildmage,RNA,Uncommon,0.25
+Sentinel's Mark,RNA,Uncommon,0.25
+Sharktocrab,RNA,Uncommon,0.25
+Silhana Wayfinder,RNA,Uncommon,0.25
+Skatewing Spy,RNA,Uncommon,0.25
+Sky Tether,RNA,Uncommon,0.25
+Smelt-Ward Ignus,RNA,Uncommon,0.25
+Sphinx of New Prahv,RNA,Uncommon,0.25
+Sphinx of the Guildpact,RNA,Uncommon,0.25
+Spire Mangler,RNA,Uncommon,0.25
+Spirit of the Spires,RNA,Uncommon,0.25
+Swirling Torrent,RNA,Uncommon,0.25
+Syndicate Guildmage,RNA,Uncommon,0.25
+Thought Collapse,RNA,Common,0.25
+Tin Street Dodger,RNA,Uncommon,0.25
+Titanic Brawl,RNA,Common,0.25
+Trollbred Guardian,RNA,Uncommon,0.25
+Windstorm Drake,RNA,Uncommon,0.25
+Zhur-Taa Goblin,RNA,Uncommon,0.25
+Clear the Stage,RNA,Uncommon,0.24
+Code of Constraint,RNA,Uncommon,0.24
+Enraged Ceratok,RNA,Uncommon,0.24
+Flames of the Raze-Boar,RNA,Uncommon,0.24
+Justiciar's Portal,RNA,Common,0.24
+Open the Gates,RNA,Common,0.24
+Ragefire,RNA,Common,0.24
+Shimmer of Possibility,RNA,Common,0.24
+Spear Spewer,RNA,Common,0.24
+Gruul Locket,RNA,Common,0.23
+Lawmage's Binding,RNA,Common,0.23
+Simic Locket,RNA,Common,0.23
+Goblin Gathering,RNA,Common,0.21
+Simic Guildgate257,RNA,Common,0.21
+Stony Strength,RNA,Common,0.21
+Act of Treason,RNA,Common,0.20
+Azorius Guildgate243,RNA,Common,0.20
+Azorius Guildgate244,RNA,Common,0.20
+Bladebrand,RNA,Common,0.20
+Burning-Tree Vandal,RNA,Common,0.20
+Coral Commando,RNA,Common,0.20
+Dead Revels,RNA,Common,0.20
+Expose to Daylight,RNA,Common,0.20
+Faerie Duelist,RNA,Common,0.20
+Frenzied Arynx,RNA,Common,0.20
+Gruul Guildgate249,RNA,Common,0.20
+Gruul Guildgate250,RNA,Common,0.20
+Orzhov Guildgate252,RNA,Common,0.20
+Orzhov Guildgate253,RNA,Common,0.20
+Quench,RNA,Common,0.20
+Rafter Demon,RNA,Common,0.20
+Rakdos Guildgate255,RNA,Common,0.20
+Rakdos Guildgate256,RNA,Common,0.20
+Root Snare,RNA,Common,0.20
+Savage Smash,RNA,Common,0.20
+Scuttlegator,RNA,Common,0.20
+Simic Guildgate258,RNA,Common,0.20
+Sphinx's Insight,RNA,Common,0.20
+Steeple Creeper,RNA,Common,0.20
+Storm Strike,RNA,Common,0.20
+Thirsting Shade,RNA,Common,0.20
+Twilight Panther,RNA,Common,0.20
+Vizkopa Vampire,RNA,Common,0.20
+Aeromunculus,RNA,Common,0.19
+Applied Biomancy,RNA,Common,0.19
+Arrester's Admonition,RNA,Common,0.19
+Azorius Knight-Arbiter,RNA,Common,0.19
+Blade Juggler,RNA,Common,0.19
+Bring to Trial,RNA,Common,0.19
+Chillbringer,RNA,Common,0.19
+Deface,RNA,Common,0.19
+Get the Point,RNA,Common,0.19
+Humongulus,RNA,Common,0.19
+Noxious Groodion,RNA,Common,0.19
+Prowling Caracal,RNA,Common,0.19
+Prying Eyes,RNA,Common,0.19
+Rakdos Roustabout,RNA,Common,0.19
+Rakdos Trumpeter,RNA,Common,0.19
+Rubble Reading,RNA,Common,0.19
+Rubblebelt Recluse,RNA,Common,0.19
+Rubblebelt Runner,RNA,Common,0.19
+Sage's Row Savant,RNA,Common,0.19
+Sagittars' Volley,RNA,Common,0.19
+Sauroform Hybrid,RNA,Common,0.19
+Scorchmark,RNA,Common,0.19
+Skitter Eel,RNA,Common,0.19
+Spikewheel Acrobat,RNA,Common,0.19
+Undercity Scavenger,RNA,Common,0.19
+Undercity's Embrace,RNA,Common,0.19
+Wrecking Beast,RNA,Common,0.19
+Arrester's Zeal,RNA,Common,0.18
+Axebane Beast,RNA,Common,0.18
+Burn Bright,RNA,Common,0.18
+Carrion Imp,RNA,Common,0.18
+Catacomb Crocodile,RNA,Common,0.18
+Civic Stalwart,RNA,Common,0.18
+Concordia Pegasus,RNA,Common,0.18
+Consign to the Pit,RNA,Common,0.18
+Debtors' Transport,RNA,Common,0.18
+Ghor-Clan Wrecker,RNA,Common,0.18
+Gift of Strength,RNA,Common,0.18
+Grasping Thrull,RNA,Common,0.18
+Gravel-Hide Goblin,RNA,Common,0.18
+Grotesque Demise,RNA,Common,0.18
+Haazda Officer,RNA,Common,0.18
+Knight of Sorrows,RNA,Common,0.18
+Mammoth Spider,RNA,Common,0.18
+Plague Wight,RNA,Common,0.18
+Rampaging Rendhorn,RNA,Common,0.18
+Rubble Slinger,RNA,Common,0.18
+Senate Courier,RNA,Common,0.18
+Senate Griffin,RNA,Common,0.18
+Slimebind,RNA,Common,0.18
+Summary Judgment,RNA,Common,0.18
+Sylvan Brushstrider,RNA,Common,0.18
+Syndicate Messenger,RNA,Common,0.18
+Tenth District Veteran,RNA,Common,0.18
+Territorial Boar,RNA,Common,0.18
+Watchful Giant,RNA,Common,0.18
+Feral Maaka,RNA,Common,0.17
+"Kaya, Orzhov Usurper",RNA,Mythic,3.90
+Hallowed Fountain,RNA,Rare,3.34
+Dovin's Automaton,RNA,Uncommon,2.93
+Blood Crypt,RNA,Rare,2.42
+"Dovin, Architect of Law",RNA,Mythic,1.98
+"Lavinia, Azorius Renegade",RNA,Rare,1.94
+Hydroid Krasis,RNA,Mythic,1.65
+Godless Shrine,RNA,Rare,1.44
+Elite Arrester,RNA,Common,1.39
+Breeding Pool,RNA,Rare,1.38
+Stomping Ground,RNA,Rare,1.29
+Charging War Boar,RNA,Uncommon,1.12
+Ragefire,RNA,Common,1.12
+Smothering Tithe,RNA,Rare,1.07
+"Domri, City Smasher",RNA,Mythic,0.53
+Absorb,RNA,Rare,0.40
+Domri's Nodorog,RNA,Rare,0.29
+Priest of Forgotten Gods,RNA,Rare,0.29
+Spawn of Mayhem,RNA,Mythic,0.27
+Deputy of Detention,RNA,Rare,0.21
+Cindervines,RNA,Rare,0.20
+"Dovin, Grand Arbiter",RNA,Mythic,0.15
+The Haunt of Hightower,RNA,Mythic,0.15
+Plaza of Harmony,RNA,Rare,0.14
+Biogenic Ooze,RNA,Mythic,0.13
+Captive Audience,RNA,Mythic,0.13
+Dovin's Dismissal,RNA,Rare,0.13
+Guardian Project,RNA,Rare,0.09
+Light Up the Stage,RNA,Uncommon,0.09
+"Domri, Chaos Bringer",RNA,Mythic,0.06
+Gutterbones,RNA,Rare,0.06
+Act of Treason,RNA,Common,0.05
+Arrester's Admonition,RNA,Common,0.05
+Burn Bright,RNA,Common,0.05
+Code of Constraint,RNA,Uncommon,0.05
+Consign to the Pit,RNA,Common,0.05
+Coral Commando,RNA,Common,0.05
+Enraged Ceratok,RNA,Uncommon,0.05
+Expose to Daylight,RNA,Common,0.05
+Frenzied Arynx,RNA,Common,0.05
+Gateway Plaza,RNA,Common,0.05
+Gruul Beastmaster,RNA,Uncommon,0.05
+Hackrobat,RNA,Uncommon,0.05
+Rakdos Trumpeter,RNA,Common,0.05
+Rampaging Rendhorn,RNA,Common,0.05
+Scorchmark,RNA,Common,0.05
+Senate Griffin,RNA,Common,0.05
+Skatewing Spy,RNA,Uncommon,0.05
+Spikewheel Acrobat,RNA,Common,0.05
+Undercity Scavenger,RNA,Common,0.05
+Undercity's Embrace,RNA,Common,0.05
+Watchful Giant,RNA,Common,0.05
+Archway Angel,RNA,Uncommon,0.04
+Axebane Beast,RNA,Common,0.04
+Azorius Skyguard,RNA,Uncommon,0.04
+Blade Juggler,RNA,Common,0.04
+Bladebrand,RNA,Common,0.04
+Bolrac-Clan Crusher,RNA,Uncommon,0.04
+Bring to Trial,RNA,Common,0.04
+Burning-Tree Vandal,RNA,Common,0.04
+Carnival // Carnage,RNA,Uncommon,0.04
+Civic Stalwart,RNA,Common,0.04
+Clear the Stage,RNA,Uncommon,0.04
+Combine Guildmage,RNA,Uncommon,0.04
+Concordia Pegasus,RNA,Common,0.04
+Cult Guildmage,RNA,Uncommon,0.04
+Deface,RNA,Common,0.04
+Dovin's Acuity,RNA,Uncommon,0.04
+Feral Maaka,RNA,Common,0.04
+Fireblade Artist,RNA,Uncommon,0.04
+Flames of the Raze-Boar,RNA,Uncommon,0.04
+Gate Colossus,RNA,Uncommon,0.04
+Gateway Sneak,RNA,Uncommon,0.04
+Get the Point,RNA,Common,0.04
+Ghor-Clan Wrecker,RNA,Common,0.04
+Gift of Strength,RNA,Common,0.04
+Haazda Officer,RNA,Common,0.04
+Humongulus,RNA,Common,0.04
+Knight of the Last Breath,RNA,Uncommon,0.04
+Macabre Mockery,RNA,Uncommon,0.04
+Noxious Groodion,RNA,Common,0.04
+Prowling Caracal,RNA,Common,0.04
+Prying Eyes,RNA,Common,0.04
+Quench,RNA,Common,0.04
+Rafter Demon,RNA,Common,0.04
+Rakdos Roustabout,RNA,Common,0.04
+Rubblebelt Recluse,RNA,Common,0.04
+Sauroform Hybrid,RNA,Common,0.04
+Screaming Shield,RNA,Uncommon,0.04
+Scuttlegator,RNA,Common,0.04
+Senate Courier,RNA,Common,0.04
+Sharktocrab,RNA,Uncommon,0.04
+Skewer the Critics,RNA,Common,0.04
+Sky Tether,RNA,Uncommon,0.04
+Sphinx of the Guildpact,RNA,Uncommon,0.04
+Spire Mangler,RNA,Uncommon,0.04
+Spirit of the Spires,RNA,Uncommon,0.04
+Summary Judgment,RNA,Common,0.04
+Swirling Torrent,RNA,Uncommon,0.04
+Syndicate Messenger,RNA,Common,0.04
+Zhur-Taa Goblin,RNA,Uncommon,0.04
+Aeromunculus,RNA,Common,0.03
+Angel of Grace,RNA,Mythic,0.03
+Angelic Exaltation,RNA,Uncommon,0.03
+Applied Biomancy,RNA,Common,0.03
+Arrester's Zeal,RNA,Common,0.03
+Azorius Knight-Arbiter,RNA,Common,0.03
+Azorius Locket,RNA,Common,0.03
+Bankrupt in Blood,RNA,Uncommon,0.03
+Basilica Bell-Haunt,RNA,Uncommon,0.03
+Biogenic Upgrade,RNA,Uncommon,0.03
+Bloodmist Infiltrator,RNA,Uncommon,0.03
+Carrion Imp,RNA,Common,0.03
+Catacomb Crocodile,RNA,Common,0.03
+Cavalcade of Calamity,RNA,Uncommon,0.03
+Chillbringer,RNA,Common,0.03
+Clamor Shaman,RNA,Uncommon,0.03
+Clan Guildmage,RNA,Uncommon,0.03
+Clear the Mind,RNA,Common,0.03
+Collision // Colossus,RNA,Uncommon,0.03
+Consecrate // Consume,RNA,Uncommon,0.03
+Cry of the Carnarium,RNA,Uncommon,0.03
+Dagger Caster,RNA,Uncommon,0.03
+Dead Revels,RNA,Common,0.03
+Debtors' Transport,RNA,Common,0.03
+Depose // Deploy,RNA,Uncommon,0.03
+Drill Bit,RNA,Uncommon,0.03
+Electrodominance,RNA,Rare,0.03
+Essence Capture,RNA,Uncommon,0.03
+Eyes Everywhere,RNA,Uncommon,0.03
+Faerie Duelist,RNA,Common,0.03
+Final Payment,RNA,Common,0.03
+Footlight Fiend,RNA,Common,0.03
+Forbidding Spirit,RNA,Uncommon,0.03
+Forest,RNA,Basic Land,0.03
+Frilled Mystic,RNA,Uncommon,0.03
+Galloping Lizrog,RNA,Uncommon,0.03
+Gatebreaker Ram,RNA,Uncommon,0.03
+Gates Ablaze,RNA,Uncommon,0.03
+Goblin Gathering,RNA,Common,0.03
+Grasping Thrull,RNA,Common,0.03
+Gravel-Hide Goblin,RNA,Common,0.03
+Grotesque Demise,RNA,Common,0.03
+Growth Spiral,RNA,Common,0.03
+Gruul Locket,RNA,Common,0.03
+Gruul Spellbreaker,RNA,Rare,0.03
+Gyre Engineer,RNA,Uncommon,0.03
+High Alert,RNA,Uncommon,0.03
+Ill-Gotten Inheritance,RNA,Common,0.03
+Impassioned Orator,RNA,Common,0.03
+Imperious Oligarch,RNA,Common,0.03
+Incubation // Incongruity,RNA,Uncommon,0.03
+Island,RNA,Basic Land,0.03
+Junktroller,RNA,Uncommon,0.03
+Justiciar's Portal,RNA,Common,0.03
+Knight of Sorrows,RNA,Common,0.03
+Lawmage's Binding,RNA,Common,0.03
+Mammoth Spider,RNA,Common,0.03
+Mesmerizing Benthid,RNA,Mythic,0.03
+Ministrant of Obligation,RNA,Uncommon,0.03
+Mortify,RNA,Uncommon,0.03
+Mountain,RNA,Basic Land,0.03
+Open the Gates,RNA,Common,0.03
+Orzhov Enforcer,RNA,Uncommon,0.03
+Orzhov Locket,RNA,Common,0.03
+Orzhov Racketeers,RNA,Uncommon,0.03
+Persistent Petitioners,RNA,Common,0.03
+Pitiless Pontiff,RNA,Uncommon,0.03
+Plague Wight,RNA,Common,0.03
+Plains,RNA,Basic Land,0.03
+Prime Speaker Vannifar,RNA,Mythic,0.03
+Pteramander,RNA,Uncommon,0.03
+Rakdos Firewheeler,RNA,Uncommon,0.03
+Rakdos Locket,RNA,Common,0.03
+Rally to Battle,RNA,Uncommon,0.03
+Ravager Wurm,RNA,Mythic,0.03
+Regenesis,RNA,Uncommon,0.03
+Resolute Watchdog,RNA,Uncommon,0.03
+Rhythm of the Wild,RNA,Uncommon,0.03
+Root Snare,RNA,Common,0.03
+Rubble Reading,RNA,Common,0.03
+Rubble Slinger,RNA,Common,0.03
+Rubblebelt Runner,RNA,Common,0.03
+Rumbling Ruin,RNA,Uncommon,0.03
+Sage's Row Savant,RNA,Common,0.03
+Sagittars' Volley,RNA,Common,0.03
+Saruli Caretaker,RNA,Common,0.03
+Savage Smash,RNA,Common,0.03
+Scrabbling Claws,RNA,Uncommon,0.03
+Senate Guildmage,RNA,Uncommon,0.03
+Sentinel's Mark,RNA,Uncommon,0.03
+Shimmer of Possibility,RNA,Common,0.03
+Silhana Wayfinder,RNA,Uncommon,0.03
+Simic Locket,RNA,Common,0.03
+Skitter Eel,RNA,Common,0.03
+Slimebind,RNA,Common,0.03
+Smelt-Ward Ignus,RNA,Uncommon,0.03
+Spear Spewer,RNA,Common,0.03
+Sphinx of New Prahv,RNA,Uncommon,0.03
+Sphinx's Insight,RNA,Common,0.03
+Steeple Creeper,RNA,Common,0.03
+Stony Strength,RNA,Common,0.03
+Storm Strike,RNA,Common,0.03
+Sunder Shaman,RNA,Uncommon,0.03
+Swamp,RNA,Basic Land,0.03
+Sylvan Brushstrider,RNA,Common,0.03
+Syndicate Guildmage,RNA,Uncommon,0.03
+Tenth District Veteran,RNA,Common,0.03
+Territorial Boar,RNA,Common,0.03
+Thirsting Shade,RNA,Common,0.03
+Thought Collapse,RNA,Common,0.03
+Tin Street Dodger,RNA,Uncommon,0.03
+Titanic Brawl,RNA,Common,0.03
+Tithe Taker,RNA,Rare,0.03
+Tower Defense,RNA,Uncommon,0.03
+Trollbred Guardian,RNA,Uncommon,0.03
+Twilight Panther,RNA,Common,0.03
+Vindictive Vampire,RNA,Uncommon,0.03
+Vizkopa Vampire,RNA,Common,0.03
+Wall of Lost Thoughts,RNA,Uncommon,0.03
+Wilderness Reclamation,RNA,Uncommon,0.03
+Windstorm Drake,RNA,Uncommon,0.03
+Wrecking Beast,RNA,Common,0.03
+Amplifire,RNA,Rare,0.02
+Awaken the Erstwhile,RNA,Rare,0.02
+Bedeck // Bedazzle,RNA,Rare,0.02
+Bedevil,RNA,Rare,0.02
+Benthic Biomancer,RNA,Rare,0.02
+Biomancer's Familiar,RNA,Rare,0.02
+Emergency Powers,RNA,Mythic,0.02
+End-Raze Forerunners,RNA,Rare,0.02
+Ethereal Absolution,RNA,Rare,0.02
+Font of Agonies,RNA,Rare,0.02
+Glass of the Guildpact,RNA,Rare,0.02
+Growth-Chamber Guardian,RNA,Rare,0.02
+Hero of Precinct One,RNA,Rare,0.02
+Immolation Shaman,RNA,Rare,0.02
+Incubation Druid,RNA,Rare,0.02
+"Judith, the Scourge Diva",RNA,Rare,0.02
+Kaya's Wrath,RNA,Rare,0.02
+Lumbering Battlement,RNA,Rare,0.02
+Mass Manipulation,RNA,Rare,0.02
+Mirror March,RNA,Rare,0.02
+Nikya of the Old Ways,RNA,Rare,0.02
+Pestilent Spirit,RNA,Rare,0.02
+Precognitive Perception,RNA,Rare,0.02
+"Rakdos, the Showstopper",RNA,Mythic,0.02
+Rampage of the Clans,RNA,Rare,0.02
+Repudiate // Replicate,RNA,Rare,0.02
+Revival // Revenge,RNA,Rare,0.02
+Rix Maadi Reveler,RNA,Rare,0.02
+Seraph of the Scales,RNA,Mythic,0.02
+Simic Ascendancy,RNA,Rare,0.02
+Skarrgan Hellkite,RNA,Mythic,0.02
+Sphinx of Foresight,RNA,Rare,0.02
+Teysa Karlov,RNA,Rare,0.02
+Theater of Horrors,RNA,Rare,0.02
+Thrash // Threat,RNA,Rare,0.02
+Tome of the Guildpact,RNA,Rare,0.02
+Unbreakable Formation,RNA,Rare,0.02
+Verity Circle,RNA,Rare,0.02
+Warrant // Warden,RNA,Rare,0.02
+"Zegana, Utopian Speaker",RNA,Rare,0.02
